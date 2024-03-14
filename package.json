@@ -1,8 +1,12 @@
 {
-  "name": "webpackdemo",
+  "name": "webpack_deskit",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/k9sec/webpackdemo"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev-build": "webpack --config webpack.config.js",
